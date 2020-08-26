@@ -1,7 +1,7 @@
 #print ("Hello World!")
 name = input ("Enter temperature in celsius: " )
 
-age = int(name)*1.8 + 32 +.0
+age = int(name)*1.8 + 32 
 #print(age + 1)
 
 print(name + ".0" + "°" + " in Celsius is equivalent to " + str(age)+ "°" " Fahrenheit." )
